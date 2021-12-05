@@ -1,1 +1,0 @@
-CNAME theresatqtran.com
