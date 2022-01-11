@@ -1021,35 +1021,7 @@ section {
 #footer .footer-top .footer-links ul a:hover {
   color: #eb4444;
 }
-#footer .footer-top .footer-newsletter form {
-  margin-top: 30px;
-  background: #fff;
-  padding: 6px 10px;
-  position: relative;
-  border-radius: 4;
-}
-#footer .footer-top .footer-newsletter form input[type=email] {
-  border: 0;
-  padding: 4px;
-  width: calc(100% - 110px);
-}
-#footer .footer-top .footer-newsletter form input[type=submit] {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  border: 0;
-  background: none;
-  font-size: 16px;
-  padding: 0 20px;
-  background: #cc1616;
-  color: #fff;
-  transition: 0.3s;
-  border-radius: 4;
-}
-#footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #e82d2d;
-}
+
 #footer .copyright {
   border-top: 1px solid #262626;
   text-align: center;
